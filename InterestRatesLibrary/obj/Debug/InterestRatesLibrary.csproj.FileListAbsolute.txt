@@ -1,0 +1,5 @@
+C:\1-Job search\DPR\InterestRates\InterestRatesLibrary\bin\Debug\InterestRatesLibrary.dll
+C:\1-Job search\DPR\InterestRates\InterestRatesLibrary\bin\Debug\InterestRatesLibrary.pdb
+C:\1-Job search\DPR\InterestRates\InterestRatesLibrary\obj\Debug\InterestRatesLibrary.csprojAssemblyReference.cache
+C:\1-Job search\DPR\InterestRates\InterestRatesLibrary\obj\Debug\InterestRatesLibrary.dll
+C:\1-Job search\DPR\InterestRates\InterestRatesLibrary\obj\Debug\InterestRatesLibrary.pdb

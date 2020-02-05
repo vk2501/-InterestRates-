@@ -1,0 +1,9 @@
+C:\1-Job search\DPR\InterestRates\InterestRates\bin\Debug\InterestRates.exe.config
+C:\1-Job search\DPR\InterestRates\InterestRates\bin\Debug\InterestRates.exe
+C:\1-Job search\DPR\InterestRates\InterestRates\bin\Debug\InterestRates.pdb
+C:\1-Job search\DPR\InterestRates\InterestRates\obj\Debug\InterestRates.csprojAssemblyReference.cache
+C:\1-Job search\DPR\InterestRates\InterestRates\obj\Debug\InterestRates.exe
+C:\1-Job search\DPR\InterestRates\InterestRates\obj\Debug\InterestRates.pdb
+C:\1-Job search\DPR\InterestRates\InterestRates\bin\Debug\InterestRatesLibrary.dll
+C:\1-Job search\DPR\InterestRates\InterestRates\bin\Debug\InterestRatesLibrary.pdb
+C:\1-Job search\DPR\InterestRates\InterestRates\obj\Debug\InterestRates.csproj.CopyComplete
